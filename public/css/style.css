@@ -1,0 +1,11 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+nav{
+    display: inline-block';
+ }
+
+nav a{
+    padding: .5rem;
+}
